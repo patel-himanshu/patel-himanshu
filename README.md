@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello, folks! I am Himanshu Patel. 👋
 
 <!--
-**patel-himanshu/patel-himanshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently, I am
+    - a final-year CSE undergrad at IIIT Naya Raipur (India)
+    - working on getting a job/internship
+    - primarily interested in full-stack development
+    - learning React and Django
+    - trying to become more involved in open source
+- I am always eager to learn new things and share what I've learned
+- You can find me on: 
+  [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/patel-himanshu/)
+  [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/twitter.png"/>](https://twitter.com/Himanshu27299)
+
+<details>
+  <summary><strong>View My GitHub Analytics</strong></summary>
+  <p>
+    <br />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=patel-himanshu&show_icons=true&theme=react&count_private=true" alt="Himanshu Patel's GitHub Stats" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-himanshu&show_icons=true&theme=react&locale=en&layout=demo" width="45%" />
+  </p>
+</details> 
