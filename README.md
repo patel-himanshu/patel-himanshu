@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 <details>
   <summary><strong>View My GitHub Analytics</strong></summary>
   <p>
-    <br />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=patel-himanshu&show_icons=true&theme=react&count_private=true" alt="Himanshu Patel's GitHub Stats" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-himanshu&show_icons=true&theme=react&locale=en&layout=demo" width="45%" />
+    <br />&emsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=patel-himanshu&show_icons=true&theme=react&count_private=true" alt="Himanshu Patel's Overall GitHub Stats" width="45%" />&emsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-himanshu&show_icons=true&theme=react&locale=en&layout=demo" alt="Himanshu Patel's GitHub Streak Stats" width="45%" />
   </p>
 </details> 
