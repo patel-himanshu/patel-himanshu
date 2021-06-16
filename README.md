@@ -40,9 +40,12 @@ Here are some ideas to get you started: 👋
         <br />&emsp;
         <img src="https://github-readme-stats.vercel.app/api?username=patel-himanshu&show_icons=true&theme=react&count_private=true" alt="Himanshu Patel's Overall GitHub Stats" width="45%" />&emsp;&emsp;
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-himanshu&show_icons=true&theme=react&locale=en&layout=demo" alt="Himanshu Patel's GitHub Streak Stats" width="45%" />
+        <br />&emsp;
+        <strong>Credits</strong>:&nbsp;
+        (1) <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra's</a> 
+            <em><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></em>
         <br />&emsp;&emsp;&emsp;&emsp;&emsp;
-        Credit: <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra's</a> <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        Credit: <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence's</a> <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a>
+        (2) <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence's</a> 
+            <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em>
     </p>
 </details> 
