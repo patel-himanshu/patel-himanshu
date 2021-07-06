@@ -24,7 +24,7 @@ Here are some ideas to get you started: 👋
     <a href="https://www.linkedin.com/in/patel-himanshu" target="_blank">
         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://twitter.com/Himanshu27299" target="_blank">
+    <a href="https://twitter.com/_Patel_Himanshu" target="_blank">
         <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
 </p>
