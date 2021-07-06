@@ -30,7 +30,7 @@ Here are some ideas to get you started: 👋
 </p>
 <!-- - You can find me on:
   [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/patel-himanshu/)
-  [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/twitter.png"/>](https://twitter.com/Himanshu27299) -->
+  [<img align="center" height="25" src="https://img.icons8.com/color/144/000000/twitter.png"/>](https://twitter.com/_Patel_Himanshu) -->
   
 <details>
     <summary>
