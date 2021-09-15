@@ -10,11 +10,11 @@ Here are some ideas to get you started: 👋
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💼 working on getting a job/internship
 -->
 
 - Currently, I am
     - 👨🏼‍🎓 a final-year CSE undergrad at IIIT Naya Raipur (India)
-<!--     - 💼 working on getting a job/internship -->
     - 💻 primarily interested in full-stack development
     - 🧰 learning React and Django
     - 👩‍💻 trying to become more involved in open source
@@ -26,6 +26,9 @@ Here are some ideas to get you started: 👋
     </a>
     <a href="https://twitter.com/_Patel_Himanshu" target="_blank">
         <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+    <a href="https://patel-himanshu.github.io/" target="_blank">
+        <img alt="Portfolio Website" title="Portfolio Website" src="https://img.shields.io/badge/-Portfolio%20Website-D2D2D2?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
 <!-- - You can find me on:
