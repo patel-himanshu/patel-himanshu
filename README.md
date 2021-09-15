@@ -14,7 +14,7 @@ Here are some ideas to get you started: 👋
 
 - Currently, I am
     - 👨🏼‍🎓 a final-year CSE undergrad at IIIT Naya Raipur (India)
-    - 💼 working on getting a job/internship
+<!--     - 💼 working on getting a job/internship -->
     - 💻 primarily interested in full-stack development
     - 🧰 learning React and Django
     - 👩‍💻 trying to become more involved in open source
