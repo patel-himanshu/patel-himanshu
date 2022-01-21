@@ -16,7 +16,7 @@ Here are some ideas to get you started: 👋
 - Currently, I am
     - 👨🏼‍🎓 a final-year CSE undergrad at IIIT Naya Raipur (India)
     - 💻 primarily interested in full-stack development
-    - 🧰 learning React and Django
+    - 🧰 learning React and TypeScript
     - 👩‍💻 trying to become more involved in open source
 - I am always eager to learn and explore new things
 - You can find me on:
