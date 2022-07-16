@@ -1,4 +1,4 @@
-### Hello, folks! I am [Himanshu Patel](https://patel-himanshu.github.io/). <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+### Hello, folks! I am [Himanshu Patel](https://bio.link/patel_himanshu). <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <!--
 Here are some ideas to get you started: 👋 
@@ -11,10 +11,11 @@ Here are some ideas to get you started: 👋
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💼 working on getting a job/internship
+- 👨🏼‍🎓 a final-year CSE undergrad at IIIT Naya Raipur (India)
 -->
 
 - Currently, I am
-    - 👨🏼‍🎓 a final-year CSE undergrad at IIIT Naya Raipur (India)
+    - 💼 currently working as a Graduate Engineer Trainee at Carl Zeiss India
     - 💻 primarily interested in full-stack development
     - 🧰 learning React and TypeScript
     - 👩‍💻 trying to become more involved in open source
