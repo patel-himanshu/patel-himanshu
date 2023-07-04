@@ -15,7 +15,7 @@ Here are some ideas to get you started: 👋
 -->
 
 - Currently, I am
-    - 💼 currently working as a Graduate Engineer Trainee at Carl Zeiss, India
+    - 💼 currently working as a Design Engineer at Carl Zeiss, India
     - 💻 primarily interested in full-stack development
     - 🧰 learning React and TypeScript
     - 👩‍💻 trying to become more involved in open source
