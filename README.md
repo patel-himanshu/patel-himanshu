@@ -18,7 +18,7 @@ Here are some ideas to get you started: 👋
     - 💼 currently working as a Design Engineer at Carl Zeiss, India
     - 💻 primarily interested in full-stack development
     - 🧰 learning React and TypeScript
-    - 👩‍💻 trying to become more involved in open source
+    - 👩‍💻 trying to become more involved in open-source
 - I am always eager to learn and explore new things
 - You can find me on:
 <p> &emsp;&emsp;
@@ -46,10 +46,8 @@ Here are some ideas to get you started: 👋
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-himanshu&show_icons=true&theme=react&locale=en&layout=demo" alt="Himanshu Patel's GitHub Streak Stats" width="45%" />
         <br />&emsp;
         <strong>Credits</strong>:&nbsp;
-        (1) <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra's</a> 
-            <em><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></em>
-        <br />&emsp;&emsp;&emsp;&emsp;&emsp;
-        (2) <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence's</a> 
-            <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em>
+        (1) <em><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></em> (Created by <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra</a>)
+        <br />&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+        (2) <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em> (Created by <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence</a>)
     </p>
 </details> 
