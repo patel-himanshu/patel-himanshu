@@ -47,7 +47,7 @@ Here are some ideas to get you started: 👋
         <br />&emsp;
         <strong>Credits</strong>:&nbsp;
         (1) <em><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a></em> (Created by <a href="https://github.com/anuraghazra" target="_blank">Anurag Hazra</a>)
-        <br />&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;
+        <br />&emsp;&emsp;&emsp;&emsp;&emsp;
         (2) <em><a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">GitHub Readme Streak Stats</a></em> (Created by <a href="https://github.com/DenverCoder1" target="_blank">Jonah Lawrence</a>)
     </p>
 </details> 
